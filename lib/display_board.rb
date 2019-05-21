@@ -1,7 +1,2 @@
 def display_board
-  |   |   
------------
-   |   |   
------------
-   |   |   
-end
+ print 
